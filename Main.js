@@ -51,11 +51,11 @@ const Par = {
 
 };
 const IO = {
-    IO: false,
+    IO: true,
 };
 
 const HighRES = {
-    HighRES: false,
+    HighRES: true,
 };
 
 const Beta = {
