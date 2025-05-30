@@ -127,7 +127,7 @@ cube.material = new THREE.MeshBasicMaterial({map: new THREE.TextureLoader().load
 
 
 }
-UpdatePlanetTexture(currentplanet,false)
+UpdatePlanetTexture(currentplanet, IO.IO, HighRES.HighRES, Beta.Beta)
 
 
 var listofmarkers = [];
